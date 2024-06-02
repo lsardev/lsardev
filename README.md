@@ -1,9 +1,14 @@
-## Hi there 👋
+## Olá, esse é meu Github 👋
 
+Prazer, meu nome é Lucas Simões de Abreu Rodrigues, tenho 21 anos. Sou estudante do 2° ano do curso de Ciências da Computação no Instituto Mauá de Tecnologia
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsardev" />
 <!--
 **lsardev/lsardev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+Meu 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
